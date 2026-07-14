@@ -1,0 +1,23 @@
+Multilevel Inheritance in Python
+
+This project demonstrates the concept of Multilevel Inheritance in Python using a simple University Management System.
+
+The program consists of three classes:
+
+Person – Stores the basic information of a person (name, age).
+Student – Inherits from Person and adds student-specific details (roll_no, cgpa).
+GraduateStudent – Inherits from Student and adds graduate-level information (research_topic, supervisor).
+
+The project also demonstrates:
+
+Constructor chaining using super()
+Method overriding
+Calling parent methods with super().display()
+Code reusability through inheritance
+Object-Oriented Programming (OOP) principles in Python
+Features
+* Multilevel Inheritance
+* Constructor Chaining
+* Method Overriding
+* super() Function
+* Clean and Beginner-Friendly Code
